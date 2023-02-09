@@ -1,0 +1,6 @@
+Examples of Guava simple usefull things:
+
+work with strings (check, trim, replace, split)
+work with collections (remove duplicates, from-to collection etc.)
+work with files (read and write)
+
